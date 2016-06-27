@@ -21,6 +21,13 @@ Currently the following language features are supported:
 - Implemented interfaces and parent classes
 - Abstract classes
 
+Installation
+------------
+
+### Composer
+
+    composer require --dev davidfuhr/php-plantumlwriter
+
 Requirements
 ------------
 
